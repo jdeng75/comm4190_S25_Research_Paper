@@ -11,22 +11,16 @@ Main question: **How can LLMs enhance doctor-patient communication without repla
 
 #### Project Summary 
 
-This research project explores how large language models (LLMs) like ChatGPT can be used to support doctor-patient communicatio **before, during, and after** clinical visits. FOcusing on non-diagnostic support tasks, this research paper analzes the potential for LLMs to act as communication aids and help patients prepare questions, clarify medical language, and practice discussing sensitive topics. 
+Healthcare communication is often characterized by high information complexity, emotional vulnerabiity, and significant power asymmetries between doctors and patients. Patients frequently leave appointments confused about their diagnoses, uncertain about what questions to ask, or unsure about how to follow through on their medical advice. These gaps can lead to worsen health outcomes, increased anxiety, and unequal access to care, particularly for marginalized or low-literacy populations.
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
+This research project explores how large language models (LLMs) like ChatGPT can be used to support doctor-patient communication **before, during, and after** clinical visits. Focusing on non-diagnostic support tasks, this research paper analyzes the potential for LLMs to act as communication aids and help patients prepare questions, clarify medical language, and practice discussing sensitive topics. 
 
 
-### Method
+This research project will look at the effects of using AI  in the context of support by comparing two alternative LLMs: Claude-3-Opus, a censored AI, and an uncensored LLM. In this context, I will engage in a simulated session where I play the role of the patient and the AI serves as the doctor-patient communication support line.
 
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
+I performed a literature review to figure out the present state of knowledge on AI's implications regarding therapy and mental health. By combining literary findings with the results from modeled therapy sessions, I plan on contributing to the increasing amount of work on the use of AI in mental health support.
+
+
 
 
 
