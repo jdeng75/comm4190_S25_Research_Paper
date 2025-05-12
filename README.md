@@ -2,10 +2,6 @@
 
 ### Doctor-Patient Communication Support With LLMs
 
-Author: Jenn Deng 
-Course: COMM4190- Talking with AI: Computation and Communication Approaches
-Date: May 13, 2025
-
 Main question: **How can LLMs enhance doctor-patient communication without replacing the clinician, and what are the associated benefits, risks, and ethical implications.**
 
 
