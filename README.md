@@ -20,8 +20,8 @@ This research project will look at the effects of using AI  in the context of su
 
 I performed a literature review to figure out the present state of knowledge on AI's implications regarding therapy and mental health. By combining literary findings with the results from modeled therapy sessions, I plan on contributing to the increasing amount of work on the use of AI in mental health support.
 
-[Research Project](comm4190_S25/comm4190_S25_Research_Paper/Research_Paper.ipynb)
-
+[Research Project](comm4190_S25_Research_Paper/Research_Paper.ipynb)
+[Bibliography](comm4190_S25_Research_Paper/Bibliography.md)
 
 
 
